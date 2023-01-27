@@ -1,0 +1,26 @@
+{
+  "name": "wabisabi",
+  "version": "1.0.0",
+  "description": "Lightweight minimalist styling library",
+  "main": "/dist/wabisabi.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onethousandcats/wabisabi.git"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "styling",
+    "light",
+    "minimalist"
+  ],
+  "author": "sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onethousandcats/wabisabi/issues"
+  },
+  "homepage": "https://github.com/onethousandcats/wabisabi#readme"
+}

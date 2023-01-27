@@ -1,0 +1,27 @@
+﻿nav {
+    margin-bottom: 4em;
+
+    .navbar-home {
+        font-size: 1.2em;
+    }
+
+    ul {
+        margin: 0;
+
+        li {
+            padding: 0 1em;
+        }
+    }
+}
+
+nav > .container, nav > .container ul {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+
+    li {
+        display: flex;
+        flex-direction: row;
+        vertical-align: middle;
+    }
+}
