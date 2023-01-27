@@ -1,0 +1,22 @@
+﻿form {
+    div {
+        display: flex;
+        grid-gap: 0.4em;
+        flex-direction: column;
+        padding-bottom: 1em;
+    }
+
+    input, select {
+        border: 1px solid;
+        border-color: #DDD;
+        padding: 0.4em;
+        border-radius: 4px;
+    }
+}
+
+button {
+    border: none;
+    padding: 1em;
+    border-radius: 4px;
+    font-weight: 500;
+}
